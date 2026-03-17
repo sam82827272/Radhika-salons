@@ -7,9 +7,11 @@
   
   --color-gold-400: #d4af37;
   --color-gold-500: #c5a017;
+  --color-salon-dark: #1a1a1a;
+  --color-salon-accent: #d4af37;
 }
 
 body {
-  background-color: #faf9f6;
-  color: #2d2a26;
+  background-color: #ffffff;
+  color: #1a1a1a;
 }
